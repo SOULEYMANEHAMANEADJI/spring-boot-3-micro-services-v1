@@ -1,0 +1,34 @@
+{
+  "status": 200,
+  "message": "School and students info",
+  "data": {
+    "name": "Leffler, Ledner and Davis",
+    "email": "Jackeline5@gmail.com",
+    "students": [
+      {
+        "firstName": "Elise",
+        "lastName": "Sawayn",
+        "email": "Marian.Reichert15@yahoo.com",
+        "schoolId": 1
+      },
+      {
+        "firstName": "Jacinto",
+        "lastName": "Quitzon",
+        "email": "Oral.Blick48@yahoo.com",
+        "schoolId": 1
+      },
+      {
+        "firstName": "Susanna",
+        "lastName": "O'Hara",
+        "email": "Dolores18@yahoo.com",
+        "schoolId": 1
+      },
+      {
+        "firstName": "Russ",
+        "lastName": "Nitzsche",
+        "email": "Kamron76@gmail.com",
+        "schoolId": 1
+      }
+    ]
+  }
+}

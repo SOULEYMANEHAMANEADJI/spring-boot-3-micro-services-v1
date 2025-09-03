@@ -1,0 +1,13 @@
+GET http://localhost:8222/api/v1/schools
+
+###
+
+http://localhost:8222/api/v1/students
+
+###
+
+GET http://localhost:8222/api/v1/schools/1/details
+
+###
+
+GET http://localhost:8222/api/v1/students/school/1

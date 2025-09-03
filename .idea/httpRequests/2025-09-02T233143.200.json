@@ -1,0 +1,9 @@
+{
+  "status": 200,
+  "message": "School and students info",
+  "data": {
+    "name": "NOT_FOUND",
+    "email": "NOT_FOUND",
+    "students": []
+  }
+}

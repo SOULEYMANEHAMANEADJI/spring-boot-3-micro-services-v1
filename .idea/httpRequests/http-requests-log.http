@@ -1,0 +1,63 @@
+GET http://localhost:8222/api/v1/schools/1/details
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.12)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-09-02T234912.200.json
+
+###
+
+GET http://localhost:8222/api/v1/schools/1/details
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.12)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-09-02T234730.200.json
+
+###
+
+GET http://localhost:8222/api/v1/students/school/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.12)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-09-02T234434.200.json
+
+###
+
+GET http://localhost:8064/api/v1/schools/1/details
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.12)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-09-02T233143.200.json
+
+###
+
+GET http://localhost:8222/api/v1/schools/1/details
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.12)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-09-02T233059.500.json
+
+###
+
+GET http://localhost:8222/api/v1/students
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.12)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-09-02T233054.200.json
+
+###
+
+GET http://localhost:8222/api/v1/schools
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.12)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-09-02T233051.200.json
+
+###
+
